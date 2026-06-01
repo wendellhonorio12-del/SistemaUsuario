@@ -1,0 +1,17 @@
+# Ignorar banco SQLite
+data/
+*.db
+
+# Ignorar pasta de build do Maven
+target/
+
+# Ignorar arquivos compilados Java
+*.class
+
+# Ignorar logs
+*.log
+
+# Ignorar configurações de IDE
+.idea/
+.vscode/
+*.iml
